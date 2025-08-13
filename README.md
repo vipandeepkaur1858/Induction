@@ -1,4 +1,4 @@
-#Dy# Day 1
+# Day 1
  8:30 to 10:00 gurudwara sahib
  10:30 Refreshment
  10:30 to 11:30 harsimran sir
@@ -40,3 +40,5 @@ ravinder garg sir (municipal of corporation of lundhiana)
 1:30 to 2:30 chemistry lecture
 2:30 to 3:30 P2P lecture
 # Day 8
+9:00 to 10:30 ID card formation
+10:30 to 12:00 english lecture
