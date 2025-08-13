@@ -1,11 +1,11 @@
 # Day 1
  8:30 to 10:00 gurudwara sahib
  10:30 Refreshment
- 10:30 to 11:30 harsimran sir
- 11:30 to 12:30Harpreet mam (HoD of applied science) 
- 12:30 to 1:30 principal sir Dr.sehajpal singh
- 1:30 to 2:30chief guest Er. rakesh kumar sir
-2:30 to 3:30 ravinder garg sir (municipal of corporation of lundhiana) 
+ 10:30 to 11:30 lecture by harsimran sir
+ 11:30 to 12:30 lecture by Harpreet mam (HoD of applied science) 
+ 12:30 to 1:30 lecture by principal sir Dr.sehajpal singh
+ 1:30 to 2:30 lecture bychief guest Er. rakesh kumar sir
+2:30 to 3:30 lecture by ravinder garg sir (municipal of corporation of lundhiana) 
 # Day 2
 9:30 to 10:30 english proficiency test
 10:30 to 11:30 maths proficiency test
