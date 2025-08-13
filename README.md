@@ -1,4 +1,4 @@
-# Day 1
+#Dy# Day 1
  8:30 to 10:00 gurudwara sahib
  10:30 Refreshment
  10:30 to 11:30 harsimran sir
@@ -21,3 +21,22 @@ ravinder garg sir (municipal of corporation of lundhiana)
 11:30 to 12:30 break
 12:30 to 2:30 expert lecture by priya darshani mam on universal human values-2
 2:30 to 3:30 causmic club
+# Day 5
+9:30 to 10:30 english lecture
+10:30 to 11:30 maths lecture
+11:30 to 12:30 BEEE lecture
+# Day 6
+9:30 to 10:30 BEEE lecture
+10:30 to 11:30 P2P lecture
+11:30 to 12:30 break
+12:30 to 2:00 lecture by Dr. arvind dhingra Sir
+2:00 to 3:00 expert lecture by Dr. jasvir singh sekhon sir
+3:00 to 4:00 lecture by Dr. Lakhvir singh Khanna
+# Day 7 
+9:30 to 10:30 lecture by Dr. amit kamra sir
+10:30 to 11:30 lecture by Dr. parminder singh sir
+11:30 to 12:30 lecture by Dr. randhir singh sir on conduct of examination
+12:30 to 1:30 break
+1:30 to 2:30 chemistry lecture
+2:30 to 3:30 P2P lecture
+# Day 8
